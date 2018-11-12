@@ -1,5 +1,4 @@
 # hello_world
-Tutorial
 
 Hello, my name is Benjamin Miller.
 I have started this GitHub account as a way to document my experience with coding.
